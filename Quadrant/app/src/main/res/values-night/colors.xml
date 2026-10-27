@@ -1,0 +1,14 @@
+<resources>
+    <color name="screen_background">#17151B</color>
+    <color name="text_primary">#F3EFF7</color>
+    <color name="text_secondary">#D0C8D8</color>
+    <color name="accent">#D0BCFF</color>
+    <color name="on_accent">#211536</color>
+    <color name="success">#8BD5A6</color>
+    <color name="divider">#49434F</color>
+    <color name="article_banner">#263746</color>
+    <color name="quad_one">#203747</color><color name="quad_one_text">#E3F2FD</color>
+    <color name="quad_two">#203B2C</color><color name="quad_two_text">#E8F5E9</color>
+    <color name="quad_three">#49351F</color><color name="quad_three_text">#FFF3E0</color>
+    <color name="quad_four">#422A49</color><color name="quad_four_text">#F3E5F5</color>
+</resources>

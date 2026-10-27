@@ -1,0 +1,10 @@
+<resources>
+    <color name="screen_background">#FFF8F5</color>
+    <color name="text_primary">#25212B</color>
+    <color name="text_secondary">#5F5966</color>
+    <color name="accent">#6750A4</color>
+    <color name="on_accent">#FFFFFF</color>
+    <color name="success">#217A45</color>
+    <color name="divider">#D8D2DE</color>
+    <color name="article_banner">#DDEBF7</color>
+</resources>
